@@ -1,1 +1,1 @@
-From gcr.io/cloud-provider-vsphere/csi/ci/driver:latest
+From gcr.io/cloud-provider-vsphere/csi/ci/driver:v1.0.1
